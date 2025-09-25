@@ -2,55 +2,45 @@
 
 💻 **Full Stack Developer | 14 years old**  
 📍 Agstafa, Azerbaijan  
-🌱 Passionate about building scalable web applications and mastering modern web technologies.  
+🌍 Passionate about crafting scalable, user-centric applications with modern web technologies.  
 
 ---
 
 ## 🌟 About Me
-Hello! I'm a young but enthusiastic **Full Stack Developer** with hands-on experience in **HTML, CSS, PHP, and Python**.  
-I enjoy creating **efficient, maintainable, and responsive web applications**, and I’m constantly expanding my knowledge in backend and frontend technologies.  
+I am a young yet highly motivated **Full Stack Developer** with a growing expertise in **React, PHP, Python, HTML, and CSS**.  
+I enjoy transforming ideas into functional and elegant digital solutions, and I’m on a mission to master the art of **clean code** and **modern software design**.  
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
 ### 🌐 Frontend
-- HTML5 & CSS3 🎨  
+- **React** ⚛️  
+- HTML & CSS 🎨  
 - Responsive & Mobile-First Design 📱  
-- Basic JavaScript (learning) ⚡  
 
 ### ⚙️ Backend
-- PHP 🐘  
-- Python 🐍  
+- **PHP** 🐘  
+- **Python** 🐍
 - MySQL & Databases 💾  
 - OOP & MVC Architecture 🏗️  
+- RESTful APIs & Data Handling 🔗  
 
 ### 🧰 Tools & Others
 - Git & GitHub 🐙  
-- Composer & Package Management 📦  
+- Package Managers (Composer, npm) 📦  
 - Laravel Framework (currently learning) 🚀  
 
 ---
 
-## 🌱 Currently Learning
-- Advanced PHP & OOP Concepts  
-- Laravel Full Stack Projects 🖥️  
-- RESTful APIs & Authentication 🔑  
-- Modern JavaScript frameworks (React/Vue) ⚛️  
+## 🌱 Currently Exploring
+- Advanced React patterns & state management 🔄  
+- Laravel full-stack development 🖥️  
+- Database optimization & SQL queries 💾  
+- Modern DevOps practices ⚡  
 
 ---
 
 ## 📫 Contact Me
-- Telegram: [@arazbytes](https://t.me/arazbytes) ✉️  
-- GitHub: [github.com/arazomarov](https://github.com/) 🌟  
-
----
-
-## 🏆 GitHub Stats & Badges
-![GitHub followers](https://img.shields.io/github/followers/arazomarov?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/arazomarov?style=social)  
-![GitHub repo count](https://img.shields.io/github/repo-count/arazomarov?color=blue)  
-
----
-
-> "Code is like poetry — concise, elegant, and meant to be understood." ✨
+- Telegram: [@omarovaraz](https://t.me/arazomarov) ✉️  
+- GitHub: [github.com/araz-omarov](https://github.com/araz-omarov) 🌟
