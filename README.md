@@ -5,14 +5,14 @@
 ---
 
 ## 🌟 About Me
-I wanne be **Full Stack Developer** and I have 14 years old. I know HTML, CSS and I leraning PHP, MySQL, Laravel Framework.
+I wanne be **Full Stack Developer** and I have 14 years old. I know HTML, CSS and I leraning React, PHP, MySQL, Laravel Framework.
 For some reason I have been away from programming for a while.
 
 ---
 
 ### 🌐 Frontend
-- **React** ⚛️  
-- HTML & CSS 🎨  
+- **React** (learning) ⚛️  
+- HTML & CSS 🎨 
 
 ### ⚙️ Backend
 - **PHP** (learning) 🐘  
