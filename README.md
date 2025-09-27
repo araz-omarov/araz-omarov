@@ -1,44 +1,28 @@
 # 👋 Hi, I'm **Araz Omarov**  
 
 💻 **Full Stack Developer | 14 years old**  
-📍 Agstafa, Azerbaijan  
-🌍 Passionate about crafting scalable, user-centric applications with modern web technologies.  
-
+📍  Baku, Azerbaijan
 ---
 
 ## 🌟 About Me
-I am a young yet highly motivated **Full Stack Developer** with a growing expertise in **React, PHP, Python, HTML, and CSS**.  
-I enjoy transforming ideas into functional and elegant digital solutions, and I’m on a mission to master the art of **clean code** and **modern software design**.  
+I wanne be **Full Stack Developer** and I have 14 years old. I know HTML, CSS and I leraning PHP, MySQL, Laravel Framework.
+For some reason I have been away from programming for a while.
 
 ---
-
-## 🛠️ Tech Stack
 
 ### 🌐 Frontend
 - **React** ⚛️  
 - HTML & CSS 🎨  
-- Responsive & Mobile-First Design 📱  
 
 ### ⚙️ Backend
-- **PHP** 🐘  
+- **PHP** (learning) 🐘  
 - **Python** 🐍
-- MySQL & Databases 💾  
-- OOP & MVC Architecture 🏗️  
-- RESTful APIs & Data Handling 🔗  
+- MySQL & Databases (learning) 💾  
 
 ### 🧰 Tools & Others
-- Git & GitHub 🐙  
-- Package Managers (Composer, npm) 📦  
-- Laravel Framework (currently learning) 🚀  
-
----
-
-## 🌱 Currently Exploring
-- Advanced React patterns & state management 🔄  
-- Laravel full-stack development 🖥️  
-- Database optimization & SQL queries 💾  
-- Modern DevOps practices ⚡  
-
+- Git & GitHub 🐙   
+- Laravel Framework (learning) 🚀
+  
 ---
 
 ## 📫 Contact Me
