@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Araz Omarov**  
 
 💻 **Full Stack Developer | 14 years old**  
-📍  Baku, Azerbaijan
+ 📍 Baku, Azerbaijan
 ---
 
 ## 🌟 About Me
